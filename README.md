@@ -2,10 +2,8 @@
 **Account Lockouts, Password Resets, and Security Logging**
 
 # Overview  
-This project demonstrates how to manage user accounts in Active Directory by real-world scenarios such as account lockouts, password resets, enabling and disabling accounts, and reviewing security logs. These tasks reflect common responsibilities in IT support and cybersecurity roles, where maintaining account security and troubleshooting authentication issues are critical.  
+This project demonstrates how to manage account lockouts, enforce security policies, and monitor logs is essential in protecting systems from unauthorized access. This highlights my core Identity and Access Management (IAM) skills used in real-world environments, including user lifecycle management and security monitoring.  
 
-Understanding how to manage account lockouts, enforce security policies, and monitor logs is essential in protecting systems from unauthorized access. This highlights my core Identity and Access Management (IAM) skills used in real-world environments, including user lifecycle management and security monitoring.  
----
 
 ## Steps Taken  
 
@@ -31,27 +29,21 @@ Understanding how to manage account lockouts, enforce security policies, and mon
 
 <p align="left">
   <img src="images/Lockout.png" width="400">
-</p>
-<p align="right">
+
+<p align="center">
  <img src="images/warning.png" width="400">
   
 <p align="center">
   <img src="images/Unlock.png" width="400">
   <img src="images/reset.png" width="400">
-</p>
 
 <p align="center">
   <img src="images/disable account.png" width="300">
-   <img src="images/changed pass.png" width="300">
+   <img src="images/changed pass.png" width="350">
   <img src="images/enable account.png" width="300">
-</p>
-
-
-<p align="center">
   <img src="images/users.png" width="400">
   <img src="Images/list.png" width="470">
   <img src="Images/logs.png" width="470">
-
-  <img src="images/Updatepolicy.png" width="400">
+ <img src="images/Updatepolicy.png" width="400">
 
 </p>
