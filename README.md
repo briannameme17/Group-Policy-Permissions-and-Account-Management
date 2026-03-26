@@ -1,10 +1,9 @@
-# Active Directory Account Management Lab  
+# Active Directory Account Management 
 **Account Lockouts, Password Resets, and Security Logging**
 
-## Overview  
+# Overview  
 This project demonstrates how to manage user accounts in Active Directory by real-world scenarios such as account lockouts, password resets, enabling and disabling accounts, and reviewing security logs. These tasks reflect common responsibilities in IT support and cybersecurity roles, where maintaining account security and troubleshooting authentication issues are critical.  
 
-## Why This Matters  
 Understanding how to manage account lockouts, enforce security policies, and monitor logs is essential in protecting systems from unauthorized access. This highlights my core Identity and Access Management (IAM) skills used in real-world environments, including user lifecycle management and security monitoring.  
 ---
 
