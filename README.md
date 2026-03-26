@@ -27,10 +27,8 @@ This project demonstrates how to manage account lockouts, enforce security polic
 
 ## Screenshots  
 
-<p align="left">
+<p align="cent">
   <img src="images/Lockout.png" width="400">
-
-<p align="center">
  <img src="images/warning.png" width="400">
   
 <p align="center">
@@ -42,8 +40,8 @@ This project demonstrates how to manage account lockouts, enforce security polic
    <img src="images/changed pass.png" width="350">
   <img src="images/enable account.png" width="300">
   <img src="images/users.png" width="400">
-  <img src="Images/list.png" width="470">
-  <img src="Images/logs.png" width="470">
+  <img src="images/list.png" width="470">
+  <img src="images/logs.png" width="470">
  <img src="images/Updatepolicy.png" width="400">
 
 </p>
