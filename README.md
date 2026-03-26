@@ -29,30 +29,29 @@ Understanding how to manage account lockouts, enforce security policies, and mon
 
 ## Screenshots  
 
-<p align="center">
+<p align="left">
   <img src="images/Lockout.png" width="400">
-  <img src="images/warning.png" width="400">
 </p>
-
+<p align="right">
+ <img src="images/warning.png" width="400">
+  
 <p align="center">
   <img src="images/Unlock.png" width="400">
   <img src="images/reset.png" width="400">
-  <img src="images/changed pass.png" width="400">
 </p>
 
 <p align="center">
-  <img src="images/disable account.png" width="400">
-  <img src="images/enable account.png" width="400">
+  <img src="images/disable account.png" width="300">
+   <img src="images/changed pass.png" width="300">
+  <img src="images/enable account.png" width="300">
 </p>
 
 
 <p align="center">
   <img src="images/users.png" width="400">
-  <img src="Images/list.png" width="400">
-  <img src="Images/logs.png" width="400">
-</p>
+  <img src="Images/list.png" width="470">
+  <img src="Images/logs.png" width="470">
 
-<p align="center">
   <img src="images/Updatepolicy.png" width="400">
-  >
+
 </p>
