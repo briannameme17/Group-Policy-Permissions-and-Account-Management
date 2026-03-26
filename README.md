@@ -27,21 +27,17 @@ This project demonstrates how to manage account lockouts, enforce security polic
 
 ## Screenshots  
 
-<p align="cent">
-  <img src="images/Lockout.png" width="400">
- <img src="images/warning.png" width="400">
-  
 <p align="center">
+  <img src="images/Lockout.png" width="400">
+ <img src="images/warning.png" width="500">
   <img src="images/Unlock.png" width="400">
   <img src="images/reset.png" width="400">
-
-<p align="center">
   <img src="images/disable account.png" width="300">
    <img src="images/changed pass.png" width="350">
   <img src="images/enable account.png" width="300">
-  <img src="images/users.png" width="400">
+  <img src="images/users.png" width="500">
   <img src="images/list.png" width="470">
   <img src="images/logs.png" width="470">
- <img src="images/Updatepolicy.png" width="400">
+ <img src="images/Updatepolicy.png" width="450">
 
 </p>
